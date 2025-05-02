@@ -15,7 +15,7 @@ I'm passionate about electronics, embedded systems, and digital design. I enjoy 
 - **Programming Languages**:  
 [![My Skills](https://skillicons.dev/icons?i=arduino,c,cpp,java&perline=4)](https://skillicons.dev)
 
-  **Hardware Languages**:
+- **Hardware Languages**:
   VHDL
 
 - **Embedded Projects**:  
