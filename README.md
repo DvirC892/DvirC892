@@ -16,6 +16,7 @@ I'm passionate about electronics, embedded systems, and digital design. I enjoy 
   C, C++, JAVA
 
   **Hardware Languages**:
+  
   VHDL
 
 - **Embedded Projects**:  
