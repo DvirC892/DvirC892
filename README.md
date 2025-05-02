@@ -15,7 +15,7 @@ I'm passionate about electronics, embedded systems, and digital design. I enjoy 
 - **Embedded Projects**:  
   Real-time control systems, sensors, communication protocols, automation
 
-![Microcontroller](https://upload.wikimedia.org/wikipedia/commons/4/4e/STM32F103C8T6_microcontroller.jpg)
+![Microcontroller](https://images.app.goo.gl/3yLow7B3U7dDVYrR7)
 *STM32F103C8T6 Microcontroller*
 
 ![FPGA](https://upload.wikimedia.org/wikipedia/commons/2/2e/FPGA_Development_Board.jpg)
