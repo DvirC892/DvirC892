@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👤 About Me
 
-<!--
-**DvirC892/DvirC892** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm **Dvir**, a fourth-year Electrical Engineering student at **Ariel University**, majoring in **Computer Engineering** and **Signal Processing**.
 
-Here are some ideas to get you started:
+I'm passionate about electronics, embedded systems, and digital design. I enjoy building real-time, hardware-integrated projects that combine code with physical components.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 What I Work With:
+
+- **Microcontrollers**:  
+  Arduino, Raspberry Pi, STM32
+
+- **FPGA Development**:  
+  Designing digital systems using VHDL and implementing them on FPGAs
+
+- **Embedded Projects**:  
+  Real-time control systems, sensors, communication protocols, automation
+
+![Microcontroller](https://upload.wikimedia.org/wikipedia/commons/4/4e/STM32F103C8T6_microcontroller.jpg)
+*STM32F103C8T6 Microcontroller*
+
+![FPGA](https://upload.wikimedia.org/wikipedia/commons/2/2e/FPGA_Development_Board.jpg)
+*FPGA Development Board*
+
+I'm always eager to explore the boundary between hardware and software, and turn ideas into working systems.
+
+---
+
+🚀 _"Engineering is not only knowing how things work — it's making them work better."_
