@@ -13,7 +13,10 @@ I'm passionate about electronics, embedded systems, and digital design. I enjoy 
   Designing digital systems using VHDL and implementing them on FPGA
 
 - **Programming Languages**:  
-  C, C++, VHDL
+  C, C++, JAVA
+
+  **Hardware Languages**:
+  VHDL
 
 - **Embedded Projects**:  
   Real-time control systems, sensor integration, automation, communication protocols
