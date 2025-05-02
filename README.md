@@ -13,7 +13,7 @@ I'm passionate about electronics, embedded systems, and digital design. I enjoy 
   Designing digital systems using VHDL and implementing them on FPGA
 
 - **Programming Languages**:  
-[![My Skills](https://skillicons.dev/icons?i=arduino,c,c++,java&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,c,cpp,java&perline=4)](https://skillicons.dev)
 
   **Hardware Languages**:
   VHDL
