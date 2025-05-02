@@ -10,18 +10,19 @@ I'm passionate about electronics, embedded systems, and digital design. I enjoy 
   Arduino, Raspberry Pi, STM32
 
 - **FPGA Development**:  
-  Designing digital systems using VHDL and implementing them on FPGAs
+  Designing digital systems using VHDL and implementing them on FPGA
+
+- **Programming Languages**:  
+  C, C++, VHDL
 
 - **Embedded Projects**:  
-  Real-time control systems, sensors, communication protocols, automation
+  Real-time control systems, sensor integration, automation, communication protocols
 
-![Microcontroller](https://images.app.goo.gl/3yLow7B3U7dDVYrR7)
-*STM32F103C8T6 Microcontroller*
-
-![FPGA](https://upload.wikimedia.org/wikipedia/commons/2/2e/FPGA_Development_Board.jpg)
-*FPGA Development Board*
-
-I'm always eager to explore the boundary between hardware and software, and turn ideas into working systems.
+### 🧠 Skills & Interests:
+- Low-level programming and direct hardware control
+- Designing efficient embedded systems
+- Signal processing and real-time data handling
+- Bridging the gap between hardware and software
 
 ---
 
