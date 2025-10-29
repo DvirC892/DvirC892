@@ -9,7 +9,6 @@ I'm passionate about electronics, embedded systems, and digital design. I enjoy 
 
 - **Microcontrollers**:  
   - Arduino  
-  - Raspberry Pi  
   - STM32
 
 - **FPGA Development**:  
