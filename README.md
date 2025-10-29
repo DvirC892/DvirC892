@@ -9,7 +9,7 @@ I'm passionate about electronics, embedded systems, and digital design. I enjoy 
 
 - **Microcontrollers**:  
   - Arduino  
-  - STM32
+  - STM32F407
 
 - **FPGA Development**:  
   - Designing digital systems using VHDL and implementing them on FPGA
