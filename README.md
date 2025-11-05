@@ -1,6 +1,7 @@
 ## 👤 About Me
 
-Hi! I'm **Dvir**, a fourth-year Electrical Engineering student at **Ariel University**, majoring in **Computer Engineering** and **Signal Processing**.
+Hi! I'm Dvir, a graduate in Electrical and Electronics Engineering from Ariel University, majoring in Computer Engineering and Signal Processing.
+
 
 I'm passionate about electronics, embedded systems, and digital design. I enjoy building real-time, hardware-integrated projects that combine code with physical components.
 
